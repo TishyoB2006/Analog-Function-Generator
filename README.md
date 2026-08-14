@@ -1,4 +1,4 @@
-# Multi-Waveform Function Generator (LTSpice Design)
+# Multi-Waveform Function Generator (LTSpice Design and Hardware Verification)
 
 An analog function generator built entirely from discrete op-amp (LT1056) stages, capable of producing six distinct waveforms — **Square, Triangle, Sine, PWM, Sawtooth, and Cosine**r. Designed and simulated in LTSpice, and cross-verified on physical hardware.
 
